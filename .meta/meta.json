@@ -33,10 +33,10 @@
   },
   "06c429fe-79e3-46e8-8054-b2c112886da9": {
     "gitAppName": "app-1",
-    "lastCommitMessage": "App app-1 created",
-    "gitVersionId": "2e8a7127-f1e6-4715-950e-2ab1c08f4dad",
-    "lastpushDate": "2024-10-11T11:29:51.303Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app app-1",
+    "gitVersionId": "ac899a8c-1c91-41fe-8da3-3f79d44a4b80",
+    "lastpushDate": "2024-10-11T11:30:04.700Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "rohan "
   }
 }

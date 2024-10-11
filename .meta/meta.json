@@ -14,5 +14,13 @@
     "lastpushDate": "2024-10-11T06:46:20.955Z",
     "gitVersionName": "v1",
     "lastCommitUser": "rohan "
+  },
+  "39c0ae3f-8020-4f74-868a-cc8538b451a5": {
+    "gitAppName": "testing apps",
+    "lastCommitMessage": "App testing apps created",
+    "gitVersionId": "8acf43af-4207-4745-bed0-7766129a8347",
+    "lastpushDate": "2024-10-11T06:47:10.073Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "rohan "
   }
 }

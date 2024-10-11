@@ -102,5 +102,13 @@
     "lastpushDate": "2024-10-11T21:14:39.744Z",
     "gitVersionName": "v1",
     "lastCommitUser": "dsfa "
+  },
+  "6b58e470-e149-47dd-be6e-f741b2fd7936": {
+    "gitAppName": "app123",
+    "lastCommitMessage": "App app123 created",
+    "gitVersionId": "d27dfb3d-bf6c-41d2-8eec-e927b323c55b",
+    "lastpushDate": "2024-10-11T21:35:35.172Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "dsfa "
   }
 }

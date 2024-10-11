@@ -70,5 +70,13 @@
     "lastpushDate": "2024-10-11T12:24:49.446Z",
     "gitVersionName": "v41",
     "lastCommitUser": "rohan "
+  },
+  "5bcd57e3-f79f-4eb2-ab68-82428c8fd091": {
+    "gitAppName": "abcd",
+    "lastCommitMessage": "App abcd created",
+    "gitVersionId": "1e0ca70c-de32-47ab-a502-12fb49e7658c",
+    "lastpushDate": "2024-10-11T18:57:17.024Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "dsfa "
   }
 }

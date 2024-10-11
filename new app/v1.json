@@ -40,7 +40,54 @@
             "createdAt": "2024-10-11T06:16:57.701Z",
             "updatedAt": "2024-10-11T06:16:57.690Z"
           },
-          "components": [],
+          "components": [
+            {
+              "id": "a1f3c56e-0e78-42ba-aa1c-fa6477d45a7f",
+              "name": "table1",
+              "type": "Table",
+              "pageId": "ef47897c-75ce-462e-81f2-ec6bff5be832",
+              "parent": null,
+              "properties": {},
+              "general": null,
+              "styles": {},
+              "generalStyles": null,
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-11T06:19:09.702Z",
+              "updatedAt": "2024-10-11T06:19:09.702Z",
+              "layouts": [
+                {
+                  "id": "947719c2-c546-48a6-9fbf-568d5ef16d79",
+                  "type": "desktop",
+                  "top": 70,
+                  "left": 4,
+                  "width": 35,
+                  "height": 456,
+                  "componentId": "a1f3c56e-0e78-42ba-aa1c-fa6477d45a7f",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-11T06:19:09.702Z"
+                },
+                {
+                  "id": "9224e4ca-a544-401c-b9b9-282fd089c0cb",
+                  "type": "mobile",
+                  "top": 70,
+                  "left": 4,
+                  "width": 35,
+                  "height": 456,
+                  "componentId": "a1f3c56e-0e78-42ba-aa1c-fa6477d45a7f",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-11T06:19:09.702Z"
+                }
+              ]
+            }
+          ],
           "pages": [
             {
               "id": "ef47897c-75ce-462e-81f2-ec6bff5be832",

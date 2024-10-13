@@ -145,10 +145,10 @@
   },
   "08fb9e33-1b6c-43f1-b2f9-3dc73080f02b": {
     "gitAppName": "fsda",
-    "lastCommitMessage": "App fsda created",
-    "gitVersionId": "99567d8d-95cf-4543-acf9-932bf03ff7e2",
-    "lastpushDate": "2024-10-13T15:07:44.412Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 created of app fsda",
+    "gitVersionId": "e68a88c8-8545-4b32-8fda-2a75e7c95802",
+    "lastpushDate": "2024-10-13T15:08:12.423Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "rohan "
   }
 }

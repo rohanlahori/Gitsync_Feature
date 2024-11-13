@@ -174,5 +174,13 @@
     "lastpushDate": "2024-10-16T06:31:26.923Z",
     "gitVersionName": "v1",
     "lastCommitUser": "rohan "
+  },
+  "fd41237e-d833-48a6-b2fc-547c9df6b9b7": {
+    "gitAppName": "Bug tracker11",
+    "lastCommitMessage": "App Bug tracker11 created",
+    "gitVersionId": "00446650-dc46-407f-ba96-6f3e4daa224f",
+    "lastpushDate": "2024-11-13T12:52:18.126Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "Rohann Lahori"
   }
 }

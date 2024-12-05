@@ -254,5 +254,13 @@
     "lastpushDate": "2024-12-05T11:39:16.458Z",
     "gitVersionName": "v1",
     "lastCommitUser": "rohan "
+  },
+  "0fe9f03d-77a1-4de6-8749-18cfd7fda808": {
+    "gitAppName": "cloud template import with commit",
+    "lastCommitMessage": "App cloud template import with commit created",
+    "gitVersionId": "76dc4b81-3fc8-446d-9655-c044b2ecbc2a",
+    "lastpushDate": "2024-12-05T11:40:48.414Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "rohan "
   }
 }
